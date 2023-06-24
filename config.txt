@@ -1,0 +1,2 @@
+C:\WebServers\usr\local\apache\logs\access.log
+server=localhost;user=root;database=logs;password=password1;
